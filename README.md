@@ -1,11 +1,10 @@
 # CS249r Final Project: Quadraped Pose Estimation (formerly DanceDanceRobot) 
 
-
 For more information, see 
 
 - An (incomplete) blog post at https://www.orangenarwhals.com/2019/12/cs249r-final-project/
 - Our final project poster
-![Final Project Poster](./poster.png "Final Poster)  
+![Final Project Poster](./poster.png)  
 - Our final report, included in the PDF in the home directory
 
 ## Contents
@@ -22,7 +21,7 @@ For more information, see
 Take the BVH file and upload it to http://lo-th.github.io/olympe/BVH_player.html
 to see a skeleton dog run in your browser!
 
-##  Cute Dog Videos
+###  Watch Cute Dog Videos
 
 Our first data set can be found in ![the videos directory](./kara_dog-cs249r-2019-12-10/videos). Thanks to my family, Yaya, and their dog Kara for these two videos. It's very cute, please do watch.
 
